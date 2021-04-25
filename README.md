@@ -1,4 +1,4 @@
-These are the scripts used to do the analysis for my PhD dissertation "Exploring Human Activities in Cities using Data and Model".
+These are the scripts writen to do the analysis for my PhD dissertation "Exploring Human Activities in Cities using Data and Model".
 
 There are 3 research questions:
 
